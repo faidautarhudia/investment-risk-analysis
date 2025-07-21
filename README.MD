@@ -8,9 +8,7 @@ Proyek ini bertujuan untuk memahami perilaku dan preferensi investasi responden 
 
 - Python
 - Jupyter Notebook
-- Pandas (manipulasi data)
-- Matplotlib & Seaborn (visualisasi)
-- NumPy (statistik deskriptif)
+- Pandas (manipulasi data)
 
 ## ❓ Pertanyaan yang Dijawab
 
